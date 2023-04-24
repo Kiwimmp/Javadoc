@@ -1,0 +1,50 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Usuario/Documents/Programación/AjedrezJava-main/AjedrezJava-main/escacsDanielZanon/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/Programación/AjedrezJava-main/AjedrezJava-main/escacsDanielZanon/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'escacsDanielZanon 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'escacsDanielZanon 1.0-SNAPSHOT API'
+'C:/Users/Usuario/Documents/Programación/AjedrezJava-main/AjedrezJava-main/escacsDanielZanon/src/main/java/EscacsDanielZanon.java'
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\src\main\java\EscacsDanielZanon.java = 1682318078566
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\src\main\java = 1676621723000
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\allclasses-index.html = 1682318083630
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\allpackages-index.html = 1682318083634
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\copy.svg = 1682318083718
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\element-list = 1682318083562
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\EscacsDanielZanon.html = 1682318083560
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\help-doc.html = 1682318083672
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\index-all.html = 1682318083660
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\index.html = 1682318083666
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\jquery-ui.overrides.css = 1682318083836
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\member-search-index.js = 1682318083646
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\module-search-index.js = 1682318083637
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\overview-tree.html = 1682318083607
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\package-search-index.js = 1682318083639
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\package-summary.html = 1682318083575
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\package-tree.html = 1682318083582
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\package-use.html = 1682318083602
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\script.js = 1682318083710
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\search-page.js = 1682318083723
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\search.html = 1682318083663
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\search.js = 1682318083721
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\stylesheet.css = 1682318083687
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\tag-search-index.js = 1682318083650
+C:\Users\Usuario\Documents\Programación\AjedrezJava-main\AjedrezJava-main\escacsDanielZanon\target\site\apidocs\type-search-index.js = 1682318083641
